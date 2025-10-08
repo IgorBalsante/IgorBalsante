@@ -2,7 +2,7 @@
 
 **`Suporte Desenvolvedor`** 
 
-Me chamo Igor Nunes Balsante, tenho 20 anos. Concluí o curso técnico em informática na escola PREVE de Agudos. Atualmente, estou cursando Ciência da Computação na Anhembi Morumbi. Tenho meu perfil profissional também no "[Linkdin](https://www.linkedin.com/in/igor-balsante-220521270)".
+Me chamo Igor Nunes Balsante. Concluí o curso técnico em informática na escola PREVE de Agudos. Atualmente, estou cursando Ciência da Computação na Anhembi Morumbi. Tenho meu perfil profissional também no "[Linkdin](https://www.linkedin.com/in/igor-balsante-220521270)".
 
 
 ---
