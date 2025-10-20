@@ -77,7 +77,7 @@ Me chamo Igor Nunes Balsante. Concluí o curso técnico em informática na escol
       align="left" 
       alt="GitHub Status" 
       height="200" 
-      src="[https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBalsante&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBalsante&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBalsante&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
